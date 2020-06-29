@@ -2,7 +2,7 @@
 
 Perdict credit risk with Machine Learning Models in Python
 
-##Project Background
+## Project Background
 
  Having the option to anticipate acknowledge hazard for credit calculations by using machine learning can help banks and budgetary foundations better foresee inconsistencies, decrease chance cases, screen portfolios, and give proposals on what to do in case of fraud.
 
